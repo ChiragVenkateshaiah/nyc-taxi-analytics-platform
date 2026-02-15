@@ -107,6 +107,18 @@ Databricks SQL / BI Dashboards
 
 ---
 
+## Architecture & Design
+
+
+## Architecture & Design
+
+- [Landing Zone Design](docs/landing-zone.md)
+- [Bronze Layer Design](docs/bronze-layer.md)
+- [Silver Layer Design](docs/silver-layer.md)
+- [Silver Implementation](docs/silver-implementation.md)
+
+
+---
 ### 📁 Repository Structure
 ```pgsql
 nyc-taxi-analytics-platform/
