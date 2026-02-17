@@ -15,6 +15,13 @@ data/processed/
 *.parquet
 *.csv
 *.delta
+*.crc
+_delta_log/
+_spark_metadata/
+
+# Ignore all generated data
+notebooks/data/
+notebooks/GOLD_*/
 
 # OS
 .DS_Store
